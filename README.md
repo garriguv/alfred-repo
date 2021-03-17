@@ -27,3 +27,7 @@ export query="$1"
 Add an open URL action:
 
 ![](open-url.png)
+
+## Acknowledgement
+
+https://mmazzarolo.com/blog/2020-09-28-alfred-github-repos/
