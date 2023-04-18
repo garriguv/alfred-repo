@@ -9,7 +9,7 @@ go build
 
 ## Alfred workflow
 
-Use [alfred-fuzzy](https://github.com/deanishe/alfred-fuzzy).
+Use [alfred-fuzzy](https://github.com/garriguv/alfred-fuzzy).
 
 Create a new script filter action:
 
